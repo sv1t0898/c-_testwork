@@ -1,7 +1,7 @@
 ### **Задание на итоговую работу:**
 
->![](.\jpeg\task.jpg)
+>![](./jpeg/task.jpg)
 
 ### **Алгоритм:**
 
->![](.\jpeg\algorithm.jpg)
+>![](./jpeg/algorithm.jpg)
