@@ -1,0 +1,15 @@
+D:\Learning\GeekBrains\1.Первая четверть\6.Итоговое задвние\testwork\bin\Debug\net6.0\testwork.exe
+D:\Learning\GeekBrains\1.Первая четверть\6.Итоговое задвние\testwork\bin\Debug\net6.0\testwork.deps.json
+D:\Learning\GeekBrains\1.Первая четверть\6.Итоговое задвние\testwork\bin\Debug\net6.0\testwork.runtimeconfig.json
+D:\Learning\GeekBrains\1.Первая четверть\6.Итоговое задвние\testwork\bin\Debug\net6.0\testwork.dll
+D:\Learning\GeekBrains\1.Первая четверть\6.Итоговое задвние\testwork\bin\Debug\net6.0\testwork.pdb
+D:\Learning\GeekBrains\1.Первая четверть\6.Итоговое задвние\testwork\obj\Debug\net6.0\testwork.csproj.AssemblyReference.cache
+D:\Learning\GeekBrains\1.Первая четверть\6.Итоговое задвние\testwork\obj\Debug\net6.0\testwork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\GeekBrains\1.Первая четверть\6.Итоговое задвние\testwork\obj\Debug\net6.0\testwork.AssemblyInfoInputs.cache
+D:\Learning\GeekBrains\1.Первая четверть\6.Итоговое задвние\testwork\obj\Debug\net6.0\testwork.AssemblyInfo.cs
+D:\Learning\GeekBrains\1.Первая четверть\6.Итоговое задвние\testwork\obj\Debug\net6.0\testwork.csproj.CoreCompileInputs.cache
+D:\Learning\GeekBrains\1.Первая четверть\6.Итоговое задвние\testwork\obj\Debug\net6.0\testwork.dll
+D:\Learning\GeekBrains\1.Первая четверть\6.Итоговое задвние\testwork\obj\Debug\net6.0\refint\testwork.dll
+D:\Learning\GeekBrains\1.Первая четверть\6.Итоговое задвние\testwork\obj\Debug\net6.0\testwork.pdb
+D:\Learning\GeekBrains\1.Первая четверть\6.Итоговое задвние\testwork\obj\Debug\net6.0\testwork.genruntimeconfig.cache
+D:\Learning\GeekBrains\1.Первая четверть\6.Итоговое задвние\testwork\obj\Debug\net6.0\ref\testwork.dll
